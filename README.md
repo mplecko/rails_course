@@ -1,3 +1,3 @@
 # README
 
-My first git repo for rails cours
+Git repo for udemy Rails course
